@@ -96,6 +96,9 @@ img.mobile-bg {
   cursor: pointer;
   padding: auto;
 }
+.faq-accordion__element:hover {
+  color: hsl(293, 50%, 43%);
+}
 
 @media only screen and (min-width: 375px) {
   .faq-accordion {
